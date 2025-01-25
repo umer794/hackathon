@@ -1,0 +1,68 @@
+.col{
+     display: flex;
+     justify-content: center;
+    
+}
+.css{
+    color: rgb(152, 239, 152);
+   
+}
+.boox{
+    min-width: 576px ;
+}
+
+.or{
+    color: #4D4D4D;
+    padding-left: 700px;
+
+}
+.wee{
+    color: #717171;
+    padding-left: 600px;
+}
+.add{
+    margin-left: 100px;
+    word-spacing: 150px;
+}
+.ld{
+    color: #4D4D4D;
+    padding-left: 501px;
+}
+.ko{
+    color: #4D4D4D;
+    padding-left: 600PX;
+}
+.ok{
+    color: #4D4D4D;
+}
+.ju{
+    color: #4D4D4D;
+}
+.ik{
+    color: #4D4D4D;
+}
+.ku{
+    color: #4D4D4D;
+}
+.iu{
+    color: #4D4D4D;
+}
+.ho{
+    color: #4D4D4D;
+}
+.cotoiner{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.gt{
+    color: #4D4D4D;
+    padding-left: 450px;
+}
+   .fy{
+    padding-left: 700px;
+   }
+.ty{
+    background-color: black;
+   color: white;
+}
